@@ -1,0 +1,28 @@
+{
+  "line_executable": "",
+  "window_title": "LINE",
+  "message_container_auto_id": "",
+  "message_control_type": "Text",
+  "chat_label": "",
+  "poll_seconds": 3,
+  "date_order": "MDY",
+  "chat_categories": {},
+  "categories": {
+    "Work": [
+      "meeting",
+      "project",
+      "会議"
+    ],
+    "Study": [
+      "assignment",
+      "lecture",
+      "課題"
+    ],
+    "Plans": [
+      "weekend",
+      "picnic",
+      "週末"
+    ]
+  },
+  "sender_names": []
+}

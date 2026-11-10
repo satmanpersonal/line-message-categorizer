@@ -1,0 +1,30 @@
+# Local chat data and settings
+data/
+exports/
+settings.json
+settings.json.tmp
+\[LINE\]*.txt
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-wal
+*.sqlite3-shm
+*.db
+*.db-wal
+*.db-shm
+*.csv
+*.log
+.env
+.env.*
+
+# Local Python and editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
