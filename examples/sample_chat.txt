@@ -1,0 +1,5 @@
+[LINE] Chat history with Demo Group
+2026/01/15
+09:00	Demo Alex	The project meeting starts at noon.
+09:15	Demo Taylor	I finished the assignment draft.
+10:00	Demo Alex	Shall we plan a picnic this weekend?
